@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480"
+   height="480"
+   viewBox="0 0 127 127"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="4.1827231"
+     inkscape:cx="94.555626"
+     inkscape:cy="49.60883"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1384"
+       empspacing="48" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1389"
+       transform="translate(0.35783133,0.44728915)">
+      <path
+         id="rect389"
+         style="opacity:1;fill:#e6e6e6;stroke:none;stroke-width:4.21822;stroke-linecap:square;stroke-opacity:0;paint-order:stroke markers fill"
+         d="m 7.0160394,6.0850992 a 5.194862,7.6618673 0 0 0 -5.195084,7.6614848 5.194862,7.6618673 0 0 0 5.195084,7.66216 5.194862,7.6618673 0 0 0 0.01976,-7.9e-4 v 7.9e-4 h 16.6918016 7.49894 v -0.006 a 5.194862,7.6618673 0 0 0 0.1122,0.006 5.194862,7.6618673 0 0 0 5.194545,-7.66216 5.194862,7.6618673 0 0 0 -5.194545,-7.6614848 5.194862,7.6618673 0 0 0 -0.1122,0.0062 v -0.0062 H 23.727606 7.0358054 a 5.194862,7.6618673 0 0 0 -0.01976,0 z" />
+      <rect
+         style="opacity:1;fill:#b3b3b3;stroke:none;stroke-width:2.26243;stroke-linecap:square;stroke-opacity:0;paint-order:stroke markers fill"
+         id="rect1360"
+         width="3.6329112"
+         height="3.5"
+         x="10.442259"
+         y="19.432789" />
+      <rect
+         style="fill:#b3b3b3;stroke:none;stroke-width:2.1559;stroke-linecap:square;stroke-opacity:0;paint-order:stroke markers fill"
+         id="rect1360-6"
+         width="3.2988505"
+         height="3.5"
+         x="23.231792"
+         y="19.322903" />
+      <rect
+         style="fill:#b3b3b3;stroke:none;stroke-width:2.06449;stroke-linecap:square;stroke-opacity:0;paint-order:stroke markers fill"
+         id="rect1360-61"
+         width="8.4537649"
+         height="1.2524098"
+         x="8.1406641"
+         y="5.233283" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai Bold';letter-spacing:-0.53975px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="10.377109"
+         y="17.175903"
+         id="text1477"><tspan
+           sodipodi:role="line"
+           id="tspan1475"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Dubai;-inkscape-font-specification:'Dubai Bold';fill:#000080;stroke-width:0.264583"
+           x="10.377109"
+           y="17.175903"
+           dx="0"
+           dy="0">LPG</tspan></text>
+    </g>
+  </g>
+</svg>
