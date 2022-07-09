@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Corporate Headquarters","order":1,"parentId":0,"scrollX":569.7777777777778,"scrollY":1422.6666666666667},
-{"id":2,"expanded":true,"name":"Lab Room","order":2,"parentId":1,"scrollX":692.4444444444445,"scrollY":415.55555555555554},
-{"id":3,"expanded":true,"name":"Library","order":3,"parentId":1,"scrollX":689.7777777777778,"scrollY":457.3333333333333}
+{"id":1,"expanded":true,"name":"Corporate Headquarters","order":1,"parentId":0,"scrollX":819,"scrollY":1363.5},
+{"id":2,"expanded":true,"name":"Lab Room","order":2,"parentId":1,"scrollX":811,"scrollY":460.5},
+{"id":3,"expanded":true,"name":"Library","order":3,"parentId":1,"scrollX":811,"scrollY":520.5}
 ]
