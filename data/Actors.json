@@ -7,7 +7,7 @@ null,
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Untitled_Artwork 6","traits":[],"initialLevel":1,"maxLevel":99,"name":"ถังดับเพลิงประเภท C","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Untitled_Artwork 6","traits":[],"initialLevel":1,"maxLevel":99,"name":"ถังดับเพลิงประเภท D","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":11,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Untitled_Artwork 6","traits":[],"initialLevel":1,"maxLevel":99,"name":"ถังดับเพลิงประเภท K","nickname":"","note":"","profile":""},
-{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"kim-suitea (1)","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kim","traits":[],"initialLevel":1,"maxLevel":99,"name":"คิมชุดกันก๊าช","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"kim-suitea 3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kim","traits":[],"initialLevel":1,"maxLevel":99,"name":"คิมชุดกันสารเคมี","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"kim-suitea (2)","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kim","traits":[],"initialLevel":1,"maxLevel":99,"name":"คิมชุดดับเพลิน","nickname":"","note":"","profile":""}
 ]
